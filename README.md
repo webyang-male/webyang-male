@@ -11,6 +11,7 @@ I want to be an interesting person and create something that can be remembered b
 - 💬 Be free to ask me about anything [here](https://github.com/webyang-male/webyang-male.github.io/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=webyang-male&show_icons=true&icon_color=0078e7&title_color=0078e7">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact)](https://github.com/webyang-male/github-readme-stats)
 
 #### Languages and Frameworks
