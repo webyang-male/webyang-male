@@ -10,6 +10,8 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/webyang-male/webyang-male.github.io/issues).
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact)](https://github.com/webyang-male/github-readme-stats)
+
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=webyang-male&show_icons=true&icon_color=0078e7&title_color=0078e7">
 
 #### Languages and Frameworks
@@ -38,7 +40,6 @@ I want to be an interesting person and create something that can be remembered b
 #### <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://simpleicons.org/icons/adobeaftereffects.svg"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact)](https://github.com/webyang-male/github-readme-stats)
 
 <font style="color:skyblue;">You can find how to contact me in the sidebar. You can follow me to find something more interesting.</font>
 
