@@ -36,7 +36,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
 ### Honor
-[![trophy](https://github-profile-trophy.vercel.app/?username=webyang-male)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=webyang-male&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <font style="color:skyblue;">You can find how to contact me in the sidebar. You can follow me to find something more interesting.</font>
