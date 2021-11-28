@@ -13,7 +13,7 @@ I want to be an interesting person and create something that can be remembered b
 - 💬 Be free to ask me about anything [here](https://github.com/webyang-male/webyang-male.github.io/issues).
 
 <div style="display: flex;justify-content:center;">
-  <img  src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=algolia&show_icons=true">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=webyang-male&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&hide_border=true)](https://github.com/webyang-male/github-readme-stats">
 </div>
 
