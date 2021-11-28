@@ -1,4 +1,6 @@
-### Hi there, I'm [大赵同学](https://www.zzychaser.top). 👋
+### Hi there, I'm [大赵同学](https://www.zzychaser.top). 👋 
+
+![](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
 I am a learning student from China. I like open source and all interesting things and want to try to do it.
 
