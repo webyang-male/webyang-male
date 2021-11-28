@@ -14,7 +14,7 @@ I want to be an interesting person and create something that can be remembered b
 
 <div style="display: flex;justify-content: space-between;">
   <img  src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=algolia&show_icons=true">
-  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact)](https://github.com/webyang-male/github-readme-stats">
+  <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&hide_border=true)](https://github.com/webyang-male/github-readme-stats">
 </div>
 
 #### Languages and Frameworks
