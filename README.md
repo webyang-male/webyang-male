@@ -12,7 +12,7 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/webyang-male/webyang-male.github.io/issues).
 
-<div style="display: flex;justify-content: space-between;">
+<div style="display: flex;justify-content:center;">
   <img  src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=algolia&show_icons=true">
   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&hide_border=true)](https://github.com/webyang-male/github-readme-stats">
 </div>
