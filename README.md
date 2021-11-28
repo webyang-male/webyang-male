@@ -17,7 +17,7 @@ I want to be an interesting person and create something that can be remembered b
   <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&hide_border=true)](https://github.com/webyang-male/github-readme-stats">
 </div>
 
-#### Languages and Frameworks
+### Languages and Frameworks
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -29,7 +29,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
-#### Tools
+### Tools
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -38,6 +38,8 @@ I want to be an interesting person and create something that can be remembered b
 ### Honor
 [![trophy](https://github-profile-trophy.vercel.app/?username=webyang-male&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Metrics
+![Metrics](https://metrics.lecoq.io/webyang-male?template=classic&config.timezone=Asia%2FShanghai)
 
 <font style="color:skyblue;">You can find how to contact me in the sidebar. You can follow me to find something more interesting.</font>
 
