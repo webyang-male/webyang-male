@@ -1,9 +1,9 @@
 ## Hey 👋, I'm 大赵同学!![](https://visitor-badge.glitch.me/badge?page_id=webyang-male)
 
 <a href='https://twitter.com/realZhaoYang'><img align='left' alt="twitter" src="/assets/twitter.svg" height='18px'/></a>
-<a href='https://space.bilibili.com/284523421'><img alt="kaggle" src="/assets/bilibili.svg" height='18px'/></a>
-<a href='https://www.zhihu.com/people/shi-guang-fu-bi'><img alt="kaggle" src="/assets/bhu.svg" height='18px'/></a>
-<a href='https://www.yuque.com/real_zy'><img alt="kaggle" src="/assets/yuque.svg" height='18px'/></a>
+<a href='https://space.bilibili.com/284523421'><img align='left' alt="bilibili" src="/assets/bilibili.svg" height='18px'/></a>
+<a href='https://www.zhihu.com/people/shi-guang-fu-bi'><img align='left' alt="zhihu" src="/assets/bhu.svg" height='18px'/></a>
+<a href='https://www.yuque.com/real_zy'><img align='left' alt="yuque" src="/assets/yuque.svg" height='18px'/></a>
 
 
 **🧐  About Me:**
@@ -20,7 +20,7 @@ I want to be an interesting person and create something that can be remembered b
 
 <br/>
 <br/>
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
 ### 🔨 Languages and Tools:
