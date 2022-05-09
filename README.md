@@ -38,8 +38,6 @@ I want to be an interesting person and create something that can be remembered b
 ### Honor
 [![trophy](https://github-profile-trophy.vercel.app/?username=webyang-male&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Metrics
-![Metrics](https://metrics.lecoq.io/webyang-male?template=classic&config.timezone=Asia%2FShanghai)
 
 ![](https://cdn.jsdelivr.net/gh/webyang-male/yangimgs/githubProf.png)
 
