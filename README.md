@@ -42,7 +42,7 @@ I want to be an interesting person and create something that can be remembered b
 
 
 ### 📊 Github Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webyang-male" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webyang-male"  width="350px"/>
   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&)](https://github.com/webyang-male/github-readme-stats">
 
 <br>
