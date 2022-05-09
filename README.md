@@ -1,4 +1,6 @@
-## Hey 👋, I'm 大赵同学!![](https://visitor-badge.glitch.me/badge?page_id=webyang-male)
+## Hey 👋, I'm 大赵同学!
+
+![](https://visitor-badge.glitch.me/badge?page_id=webyang-male)
 
 <a href='https://twitter.com/realZhaoYang'><img align='left' alt="twitter" src="/assets/twitter.svg" height='18px'/></a>
 <a href='https://space.bilibili.com/284523421'><img align='left' alt="bilibili" src="/assets/bilibili.svg" height='18px'/></a>
@@ -12,15 +14,18 @@ I am a learning student from China. I like open source and all interesting thing
 
 I want to be an interesting person and create something that can be remembered by others.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="240px"/>
+
 - 🔭 I’m currently working on [...](https://github.com/webyang-male), yeah, you can find them directly below.
-- 🌱 I’m currently learning Vue & Flutter & HEXO, and want to learn everything interesting.
+- ☁️ I aspire to be a front-end engineer.
+- 🌱 I’m currently learning Vue & Flutter & React, and want to learn everything interesting.
 - 🤔 I want to make a Vue-backstage management system recently.
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
+- 📝   Checkout my [Blog](https://zain-resume.vercel.app/)
 - 💬 Be free to ask me about anything [here](https://github.co6m/webyang-male/webyang-male.github.io/issues).
+<br/>
+<br/>
 
-<br/>
-<br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 
 ### 🔨 Languages and Tools:
@@ -42,8 +47,9 @@ I want to be an interesting person and create something that can be remembered b
 
 
 ### 📊 Github Stats
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=webyang-male"  width="350px"/>
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&)](https://github.com/webyang-male/github-readme-stats">
+
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=webyang-male"  /></a>
+  <a><img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&)](https://github.com/webyang-male/github-readme-stats" height="195px"></a>
 
 <br>
 
