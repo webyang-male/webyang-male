@@ -21,7 +21,7 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 I’m currently learning Vue & Flutter & React, and want to learn everything interesting.
 - 🤔 I want to make a Vue-backstage management system recently.
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
-- 📝   Checkout my [Blog](https://zain-resume.vercel.app/)
+- 📝   Checkout my [Blog](https://arknight.zzychaser.top/)
 - 💬 Be free to ask me about anything [here](https://github.co6m/webyang-male/webyang-male.github.io/issues).
 <br/>
 <br/>
