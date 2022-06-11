@@ -14,7 +14,7 @@ I am a learning student from China. I like open source and all interesting thing
 
 I want to be an interesting person and create something that can be remembered by others.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width=240px />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" style="transform: scale(.7);" />
 
 - 🔭 I’m currently working on [...](https://github.com/webyang-male), yeah, you can find them directly below.
 - ☁️ I aspire to be a front-end engineer.
