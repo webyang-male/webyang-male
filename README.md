@@ -23,9 +23,6 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 📝   Checkout my [Blog](https://arknight.zzychaser.top/)
 - 💬 Be free to ask me about anything [here](https://github.com/webyang-male/webyang-male/issues).
-<br/>
-<br/>
-
 
 
 ### 🔨 Languages and Tools:
@@ -44,12 +41,20 @@ I want to be an interesting person and create something that can be remembered b
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="42px" /> </a>
 <br>
+<br>
 
 ### 📊 Github Stats
 <center>
-  <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male" width=414px /></a>
   <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=webyang-male&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+    <div>
+      <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=dark" width=414px /></a>
+    </div>
+    <br>
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=webyang-male&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />    
   </div>
 </center>
+<br>
+<div align="center">
+  <img  src="https://activity-graph.herokuapp.com/graph?username=webyang-male&theme=minimal" />
+</div>
 
