@@ -29,6 +29,7 @@ I want to be an interesting person and create something that can be remembered b
 
 
 ### 🔨 Languages and Tools:
+
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -42,13 +43,13 @@ I want to be an interesting person and create something that can be remembered b
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="42px" /> </a>
-
 <br>
-
 
 ### 📊 Github Stats
-  <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male" width=414px /></a><br>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&layout=compact&theme=buefy&)](https://github.com/webyang-male/github-readme-stats" height="195px"></a>
-<br>
-
+<center>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male" width=414px /></a>
+  <div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com?user=webyang-male&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
+  </div>
+</center>
 
