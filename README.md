@@ -43,6 +43,10 @@ I want to be an interesting person and create something that can be remembered b
 <br>
 <br>
 
+### My GitHub Contributions
+![](https://raw.githubusercontent.com/webyang-male/webyang-male/main/assets/github-contribution-grid-snake.svg)
+<br>
+
 ### 📊 Github Stats
 <center>
   <div align="center">
@@ -54,7 +58,7 @@ I want to be an interesting person and create something that can be remembered b
   </div>
 </center>
 <br>
-![](https://raw.githubusercontent.com/webyang-male/webyang-male/main/assets/github-contribution-grid-snake.svg)
+
 <div align="center">
   <img  src="https://activity-graph.herokuapp.com/graph?username=webyang-male&theme=react-dark" />
 </div>
