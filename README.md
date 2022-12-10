@@ -60,8 +60,8 @@ I want to be an interesting person and create something that can be remembered b
   </div>
 </center>
 <br>
-<center>
-    <div align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=webyang-male" /> 
-      </div>
-</center>
+
+<p align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=webyang-male" align = "center"/> 
+</p>
+
