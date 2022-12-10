@@ -59,7 +59,4 @@ I want to be an interesting person and create something that can be remembered b
 </center>
 <br>
 
-<div align="center">
-  <img  src="https://activity-graph.herokuapp.com/graph?username=webyang-male&theme=react-dark" style="max-width: 80% !important;"/>
-</div>
 
