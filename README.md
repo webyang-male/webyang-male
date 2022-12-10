@@ -1,11 +1,13 @@
 ## Hey 👋, I'm 大赵同学!
 
-![](https://visitor-badge.glitch.me/badge?page_id=webyang-male)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=webyang-male) -->
 
 <a href='https://twitter.com/realZhaoYang'><img align='left' alt="twitter" src="/assets/twitter.svg" height='18px'/></a>
 <a href='https://space.bilibili.com/284523421'><img align='left' alt="bilibili" src="/assets/bilibili.svg" height='18px'/></a>
 <a href='https://www.zhihu.com/people/shi-guang-fu-bi'><img align='left' alt="zhihu" src="/assets/bhu.svg" height='18px'/></a>
 <a href='https://www.yuque.com/real_zy'><img align='left' alt="yuque" src="/assets/yuque.svg" height='18px'/></a>
+<br>
+<img src="https://count.getloli.com/get/@:webyang-male" alt=":webyang-male" />
 <br>
 <br>
 **🧐  About Me:**
@@ -58,5 +60,8 @@ I want to be an interesting person and create something that can be remembered b
   </div>
 </center>
 <br>
-
-
+<center>
+    <div align="center">
+<img  src="https://github-profile-trophy.vercel.app/?username=webyang-male" /> 
+      </div>
+</center>
