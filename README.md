@@ -52,16 +52,23 @@ I want to be an interesting person and create something that can be remembered b
 ### 📊 Github Stats
 <center>
   <div align="center">
-    <div>
-      <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=dark" width=414px /></a>
-    </div>
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+        <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=dark" width=414px /></a>
+     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
+   </div>
     <br>
-    <img  src="https://github-readme-streak-stats.herokuapp.com?user=webyang-male&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />    
+  <div align="center">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
+      <img  src="https://github-readme-streak-stats.herokuapp.com?user=webyang-male&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />    
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
   </div>
 </center>
 <br>
-
+<br>
 <p align="center"> 
  <a href="https://github.com/webyang-male"><img src="https://github-profile-trophy.vercel.app/?username=webyang-male&margin-w=6&theme=radical&row=1" alt="webyang-male" /></a>
 </p>
 
+<p align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B91FF&width=435&lines=%E4%B8%8D%E4%BC%9A%E5%89%8D%E7%AB%AF%E7%9A%84%E6%B5%8B%E8%AF%95%E4%B8%8D%E6%98%AF%E5%A5%BD%E8%BF%90%E7%BB%B4" alt="Typing SVG" /></a>
+</p>
