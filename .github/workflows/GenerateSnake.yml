@@ -18,6 +18,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v2
         with:
+            node-version: 16
 
     # github user name to read the contribution graph from (**required**)
 
