@@ -1,6 +1,9 @@
 ## Hey 👋, I'm 大赵同学!
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=webyang-male) -->
+<p> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B91FF&width=435&lines=%E4%B8%8D%E4%BC%9A%E5%89%8D%E7%AB%AF%E7%9A%84%E6%B5%8B%E8%AF%95%E4%B8%8D%E6%98%AF%E5%A5%BD%E8%BF%90%E7%BB%B4" alt="Typing SVG" /></a>
+</p>
 
 <a href='https://twitter.com/realZhaoYang'><img align='left' alt="twitter" src="/assets/twitter.svg" height='18px'/></a>
 <a href='https://space.bilibili.com/284523421'><img align='left' alt="bilibili" src="/assets/bilibili.svg" height='18px'/></a>
@@ -70,6 +73,3 @@ I want to be an interesting person and create something that can be remembered b
  <a href="https://github.com/webyang-male"><img src="https://github-profile-trophy.vercel.app/?username=webyang-male&margin-w=6&theme=radical&row=1" alt="webyang-male" /></a>
 </p>
 
-<p align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1B91FF&width=435&lines=%E4%B8%8D%E4%BC%9A%E5%89%8D%E7%AB%AF%E7%9A%84%E6%B5%8B%E8%AF%95%E4%B8%8D%E6%98%AF%E5%A5%BD%E8%BF%90%E7%BB%B4" alt="Typing SVG" /></a>
-</p>
