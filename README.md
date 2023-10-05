@@ -54,19 +54,12 @@ I want to be an interesting person and create something that can be remembered b
 <br>
 
 ### 📊 Github Stats
-<center>
-  <div align="center">
-     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-        <a><img src="https://github-readme-stats.vercel.app/api?username=webyang-male&theme=dark" width=414px /></a>
-     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-   </div>
-    <br>
-  <div align="center">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-      <img  src="https://github-readme-streak-stats.herokuapp.com?user=webyang-male&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />    
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
-  </div>
-</center>
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=webyang-male&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webyang-male&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
+
 <br>
 <br>
 <p align="center"> 
