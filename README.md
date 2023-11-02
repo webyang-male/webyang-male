@@ -22,12 +22,12 @@ I want to be an interesting person and create something that can be remembered b
 
 <img align="right"  alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width=100px style="transform: scale(.7) !important;" />
 
-- 🔭 I’m currently working on [...](https://github.com/webyang-male), yeah, you can find them directly below.
+- 🔭 I’m currently working on BYD.
 - ☁️ I aspire to be a front-end engineer.
 - 🌱 I’m currently learning Vue & Flutter & React, and want to learn everything interesting.
 - 🤔 I want to make a Vue-backstage management system recently.
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
-- 📝   Checkout my [Blog](https://arknight.zzychaser.top/)
+- 📝   Checkout my [Notes/Doc](https://zain-doc.vercel.app/)
 - 💬 Be free to ask me about anything [here](https://github.com/webyang-male/webyang-male/issues).
 
 
