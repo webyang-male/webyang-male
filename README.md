@@ -20,7 +20,6 @@ I am a individual developer from China. I like open source and all interesting t
 
 I want to be an interesting person and create something that can be remembered by others.
 
-<img align="right"  alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width=100px style="transform: scale(.7) !important;" />
 
 - 🔭 I’m currently working on BYD.
 - ☁️ I aspire to be a front-end engineer.
