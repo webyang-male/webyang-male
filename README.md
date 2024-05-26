@@ -16,7 +16,7 @@
 <br>
 **🧐  About Me:**
 
-I am a learning student from China. I like open source and all interesting things and want to try to do it.
+I am a individual developer from China. I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
