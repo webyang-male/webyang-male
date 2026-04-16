@@ -61,7 +61,5 @@ I want to be an interesting person and create something that can be remembered b
 
 <br>
 <br>
-<p align="center"> 
- <a href="https://github.com/webyang-male"><img src="https://github-profile-trophy.vercel.app/?username=webyang-male&margin-w=6&theme=radical&row=1" alt="webyang-male" /></a>
-</p>
+
 
