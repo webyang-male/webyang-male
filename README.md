@@ -45,8 +45,9 @@ I want to be an interesting person and create something that can be remembered b
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="42px" /> </a>
+<hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,md,react,vue,ts,nodejs,npm,nuxtjs,flutter,tensorflow,threejs,ubuntu,wasm,linux,nestjs,mysql,mongodb,notion,php,webstorm,wordpress&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,md,react,vue,ts,nodejs,npm,nuxtjs,flutter,tensorflow,threejs,ubuntu,wasm,docker,linux,nestjs,mysql,mongodb,notion,php,webstorm,wordpress&perline=6)](https://skillicons.dev)
 <br>
 <br>
 
