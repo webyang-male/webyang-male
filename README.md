@@ -56,7 +56,7 @@ I want to be an interesting person and create something that can be remembered b
 <!-- GitHub数据统计 -->
 <div align="center">
   
-[![](https://github-profile-trophy.vercel.app/?username=webyang-male&theme=buddhism&row=1&no-frame=false&margin-w=15&margin-h=15&rank=S,AAA,AA,A)
+![](https://github-profile-trophy.vercel.app/?username=webyang-male&theme=buddhism&row=1&no-frame=false&margin-w=15&margin-h=15&rank=S,AAA,AA,A)
   
 </div>
 
