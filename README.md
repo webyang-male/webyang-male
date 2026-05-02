@@ -21,7 +21,7 @@ I am a individual developer from China. I like open source and all interesting t
 I want to be an interesting person and create something that can be remembered by others.
 
 
-- 🔭 I’m currently working on BYD.
+- 🔭 I’m currently working on 3YC.
 - ☁️ I aspire to be a front-end engineer.
 - 🌱 I’m currently learning Vue & Flutter & React, and want to learn everything interesting.
 - 🤔 I want to make a Vue-backstage management system recently.
